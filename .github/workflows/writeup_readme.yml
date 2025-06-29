@@ -10,7 +10,6 @@ on:
       - 'writeup.pdf'
       - '.README.md'
       - '.github/workflows/writeup_readme.yml'
-      - 'README.md'
 
 jobs:
   run:
