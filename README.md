@@ -4,7 +4,7 @@
 <h1 align = "center">Trench Tactics</h1>
 <h2>Unit Movement</h2>
 
-Left-Click Drag across a certain area of the screen to create a selection rectangle.
+Left-Click and drag across a certain area of the screen to create a selection rectangle.
 Everything in that rectangle will be selected.
 
 Right-Click to a position on the screen (which doesn’t have any UI elements) to make
