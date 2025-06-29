@@ -1,4 +1,4 @@
-This Github Action converts a `writeup.pdf` found in the root directory into images on an orphan branch, then adds links to them into the README. This way anytime a full writeup was done in Latex/Word/etc, you have an easy way to add it to your code to be used in a portfolio.
+This Github Action converts a `writeup.pdf` found in the root directory into images on an orphan branch, then adds links to them into tADME. This way anytime a full writeup was done in Latex/Word/etc, you have an easy way to add it to your code to be used in a portfolio.
 
 A better way would have been to use pandocs.. but this requires handling math, images, etc, and this seemed a more appropriate level of work for what I needed it for.
 
