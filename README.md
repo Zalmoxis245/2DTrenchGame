@@ -30,3 +30,4 @@ Defeat all of the enemy soldiers and have the enemy general run out of money.
 Lose all of your soldiers and run out of money.
 <h2>PEGI 12</h2> It doesn’t contain any slurs or explicit content. However it
 has some vague notions of violence such as killing enemies.
+<h2>Disclaimer</h2> This game is largely unfinished. It very much is a university assignment done in a rush and left to rot on my disk storage. 
