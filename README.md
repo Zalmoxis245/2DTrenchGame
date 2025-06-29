@@ -1,5 +1,5 @@
 <p align = "center">
-<img src = "https://github.com/user-attachments/assets/dc1c730d-2d8a-4817-9574-005f605c34b5"/>
+<img src = "https://github.com/user-attachments/assets/a52cff85-7c1a-410f-bd5e-ace1edcd63bd"/>
 </p>
 <h1 align = "center">Trench Tactics</h1>
 <h2>Unit Movement</h2>
